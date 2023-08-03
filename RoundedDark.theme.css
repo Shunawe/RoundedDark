@@ -18,7 +18,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
 :root {
     --font-primary: 'Karla', sans-serif;
-    --custom-background: #17181a;
+    --custom-background: #17181a80;
 
     --blurple: #576aed;
     --grey:#252629;
